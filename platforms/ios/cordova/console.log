@@ -1,0 +1,393 @@
+2014-10-13 09:12:47.429 GoGreenApp[47423:1782249] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Data/Application/ED9FDC28-4BCF-4B39-8FE8-674C807E04F0/Library/Cookies/Cookies.binarycookies
+2014-10-13 09:12:47.597 GoGreenApp[47423:1782249] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-13 09:12:47.598 GoGreenApp[47423:1782249] Multi-tasking -> Device: YES, App: YES
+2014-10-13 09:12:47.624 GoGreenApp[47423:1782249] Unlimited access to network resources
+2014-10-13 09:12:47.628 GoGreenApp[47423:1782249] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-13 09:12:48.706 GoGreenApp[47423:1782249] Resetting plugins due to page load.
+2014-10-13 09:12:48.864 GoGreenApp[47423:1782249] Finished load of: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Bundle/Application/71B7D3D8-0912-4D42-8255-ACCC9CB030F7/GoGreenApp.app/www/index.html
+2014-10-13 09:41:07.118 GoGreenApp[49078:1798589] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Data/Application/9A6B7745-7D79-4698-9078-C52D4D771F5C/Library/Cookies/Cookies.binarycookies
+2014-10-13 09:41:07.222 GoGreenApp[49078:1798589] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-13 09:41:07.223 GoGreenApp[49078:1798589] Multi-tasking -> Device: YES, App: YES
+2014-10-13 09:41:07.245 GoGreenApp[49078:1798589] Unlimited access to network resources
+2014-10-13 09:41:07.252 GoGreenApp[49078:1798589] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-13 09:41:07.542 GoGreenApp[49078:1798589] [CDVTimer][file] 4.590988ms
+2014-10-13 09:41:07.542 GoGreenApp[49078:1798589] [CDVTimer][TotalPluginStartup] 4.804015ms
+2014-10-13 09:41:07.682 GoGreenApp[49078:1798589] Resetting plugins due to page load.
+2014-10-13 09:41:07.784 GoGreenApp[49078:1798589] Finished load of: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Bundle/Application/310D2321-1C7D-41DA-ADFF-AFB6F7B3A908/GoGreenApp.app/www/index.html
+2014-10-13 09:46:13.937 GoGreenApp[49776:1802416] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Data/Application/B71B2009-E777-42D1-B21A-36A1195BE0C9/Library/Cookies/Cookies.binarycookies
+2014-10-13 09:46:14.212 GoGreenApp[49776:1802416] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-13 09:46:14.212 GoGreenApp[49776:1802416] Multi-tasking -> Device: YES, App: YES
+2014-10-13 09:46:14.222 GoGreenApp[49776:1802416] Unlimited access to network resources
+2014-10-13 09:46:14.224 GoGreenApp[49776:1802416] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-13 09:46:14.332 GoGreenApp[49776:1802416] [CDVTimer][file] 2.838016ms
+2014-10-13 09:46:14.332 GoGreenApp[49776:1802416] [CDVTimer][TotalPluginStartup] 3.049970ms
+2014-10-13 09:46:14.398 GoGreenApp[49776:1802416] Resetting plugins due to page load.
+2014-10-13 09:46:14.569 GoGreenApp[49776:1802416] Finished load of: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Bundle/Application/92652479-51AD-472C-A57B-8B2B80622865/GoGreenApp.app/www/index.html
+2014-10-13 09:51:15.696 GoGreenApp[50461:1805806] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Data/Application/18F34E6B-3423-4E18-BEB2-4E1E9713C154/Library/Cookies/Cookies.binarycookies
+2014-10-13 09:51:15.996 GoGreenApp[50461:1805806] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-13 09:51:15.997 GoGreenApp[50461:1805806] Multi-tasking -> Device: YES, App: YES
+2014-10-13 09:51:16.005 GoGreenApp[50461:1805806] Unlimited access to network resources
+2014-10-13 09:51:16.009 GoGreenApp[50461:1805806] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-13 09:51:16.193 GoGreenApp[50461:1805806] [CDVTimer][file] 3.126979ms
+2014-10-13 09:51:16.193 GoGreenApp[50461:1805806] [CDVTimer][TotalPluginStartup] 3.276050ms
+2014-10-13 09:51:16.247 GoGreenApp[50461:1805806] Resetting plugins due to page load.
+2014-10-13 09:51:16.391 GoGreenApp[50461:1805806] Finished load of: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Bundle/Application/C45347AF-CEE1-40C5-AA1D-0D14C1ED1B9E/GoGreenApp.app/www/index.html
+2014-10-13 09:57:01.678 GoGreenApp[50833:1807186] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Data/Application/B71F8ACC-7342-4A6F-B7D1-AF26B5B0BD63/Library/Cookies/Cookies.binarycookies
+2014-10-13 09:57:01.802 GoGreenApp[50833:1807186] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-13 09:57:01.803 GoGreenApp[50833:1807186] Multi-tasking -> Device: YES, App: YES
+2014-10-13 09:57:01.811 GoGreenApp[50833:1807186] Unlimited access to network resources
+2014-10-13 09:57:01.814 GoGreenApp[50833:1807186] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-13 09:57:01.950 GoGreenApp[50833:1807186] [CDVTimer][file] 6.061018ms
+2014-10-13 09:57:01.950 GoGreenApp[50833:1807186] [CDVTimer][TotalPluginStartup] 6.235003ms
+2014-10-13 09:57:02.019 GoGreenApp[50833:1807186] Resetting plugins due to page load.
+2014-10-13 09:57:02.124 GoGreenApp[50833:1807186] Finished load of: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Bundle/Application/2D863CEA-49B6-4486-93E7-7702B0F8E662/GoGreenApp.app/www/index.html
+2014-10-13 10:17:43.672 GoGreenApp[51215:1809387] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Data/Application/1FB642D0-0714-4DF4-8AE3-A8153B3E204B/Library/Cookies/Cookies.binarycookies
+2014-10-13 10:17:43.781 GoGreenApp[51215:1809387] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-13 10:17:43.781 GoGreenApp[51215:1809387] Multi-tasking -> Device: YES, App: YES
+2014-10-13 10:17:43.788 GoGreenApp[51215:1809387] Unlimited access to network resources
+2014-10-13 10:17:43.792 GoGreenApp[51215:1809387] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-13 10:17:43.907 GoGreenApp[51215:1809387] [CDVTimer][file] 5.300999ms
+2014-10-13 10:17:43.907 GoGreenApp[51215:1809387] [CDVTimer][TotalPluginStartup] 5.475998ms
+2014-10-13 10:17:43.974 GoGreenApp[51215:1809387] Resetting plugins due to page load.
+2014-10-13 10:17:44.088 GoGreenApp[51215:1809387] Finished load of: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Bundle/Application/C884F8B5-B557-49B6-BB91-B5C6E5ED100C/GoGreenApp.app/www/index.html
+2014-10-13 10:17:51.514 GoGreenApp[51215:1809555] Terminating since there is no system app.
+2014-10-13 10:20:47.313 GoGreenApp[51896:1811997] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Data/Application/3EA6E5B1-D4E7-45B4-B5C0-C739A1E2CB53/Library/Cookies/Cookies.binarycookies
+2014-10-13 10:20:47.480 GoGreenApp[51896:1811997] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-13 10:20:47.481 GoGreenApp[51896:1811997] Multi-tasking -> Device: YES, App: YES
+2014-10-13 10:20:47.487 GoGreenApp[51896:1811997] Unlimited access to network resources
+2014-10-13 10:20:47.490 GoGreenApp[51896:1811997] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-13 10:20:47.605 GoGreenApp[51896:1811997] [CDVTimer][file] 3.068984ms
+2014-10-13 10:20:47.605 GoGreenApp[51896:1811997] [CDVTimer][TotalPluginStartup] 3.313959ms
+2014-10-13 10:20:47.658 GoGreenApp[51896:1811997] Resetting plugins due to page load.
+2014-10-13 10:20:47.742 GoGreenApp[51896:1811997] Finished load of: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Bundle/Application/09533E94-EAF8-48F3-9E9C-A26D6A2B96EC/GoGreenApp.app/www/index.html
+2014-10-13 10:23:58.922 GoGreenApp[52570:1814499] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Data/Application/95CC094D-AD23-4C75-BA0D-3AE220E613E6/Library/Cookies/Cookies.binarycookies
+2014-10-13 10:23:59.010 GoGreenApp[52570:1814499] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-13 10:23:59.010 GoGreenApp[52570:1814499] Multi-tasking -> Device: YES, App: YES
+2014-10-13 10:23:59.015 GoGreenApp[52570:1814499] Unlimited access to network resources
+2014-10-13 10:23:59.017 GoGreenApp[52570:1814499] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-13 10:23:59.122 GoGreenApp[52570:1814499] [CDVTimer][file] 2.479970ms
+2014-10-13 10:23:59.122 GoGreenApp[52570:1814499] [CDVTimer][TotalPluginStartup] 2.671957ms
+2014-10-13 10:23:59.227 GoGreenApp[52570:1814499] Resetting plugins due to page load.
+2014-10-13 10:23:59.320 GoGreenApp[52570:1814499] Finished load of: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Bundle/Application/33A46507-DD31-4377-95A1-7DC3F9720672/GoGreenApp.app/www/index.html
+2014-10-13 10:24:44.349 GoGreenApp[53236:1815949] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Data/Application/124D0BF9-1549-4F11-AD1E-944A559D4D7C/Library/Cookies/Cookies.binarycookies
+2014-10-13 10:24:44.476 GoGreenApp[53236:1815949] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-13 10:24:44.477 GoGreenApp[53236:1815949] Multi-tasking -> Device: YES, App: YES
+2014-10-13 10:24:44.492 GoGreenApp[53236:1815949] Unlimited access to network resources
+2014-10-13 10:24:44.495 GoGreenApp[53236:1815949] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-13 10:24:44.691 GoGreenApp[53236:1815949] [CDVTimer][file] 4.322946ms
+2014-10-13 10:24:44.691 GoGreenApp[53236:1815949] [CDVTimer][TotalPluginStartup] 4.583001ms
+2014-10-13 10:24:44.797 GoGreenApp[53236:1815949] Resetting plugins due to page load.
+2014-10-13 10:24:44.886 GoGreenApp[53236:1815949] Finished load of: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Bundle/Application/E03A1750-304F-4B03-B53E-0A22198FF614/GoGreenApp.app/www/index.html
+2014-10-13 10:24:48.556 GoGreenApp[53236:1815971] Terminating since there is no system app.
+2014-10-13 10:25:14.780 GoGreenApp[53902:1817290] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Data/Application/ED678F4E-AFCB-4BDE-95C5-2924D2924694/Library/Cookies/Cookies.binarycookies
+2014-10-13 10:25:15.060 GoGreenApp[53902:1817290] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-13 10:25:15.061 GoGreenApp[53902:1817290] Multi-tasking -> Device: YES, App: YES
+2014-10-13 10:25:15.077 GoGreenApp[53902:1817290] Unlimited access to network resources
+2014-10-13 10:25:15.079 GoGreenApp[53902:1817290] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-13 10:25:15.213 GoGreenApp[53902:1817290] [CDVTimer][file] 3.943026ms
+2014-10-13 10:25:15.214 GoGreenApp[53902:1817290] [CDVTimer][TotalPluginStartup] 4.498959ms
+2014-10-13 10:25:15.276 GoGreenApp[53902:1817290] Resetting plugins due to page load.
+2014-10-13 10:25:15.364 GoGreenApp[53902:1817290] Finished load of: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Bundle/Application/8DD6CC20-81AC-457E-96EB-A921558A2CE5/GoGreenApp.app/www/index.html
+2014-10-13 10:26:01.402 GoGreenApp[53902:1817793] Terminating since there is no system app.
+2014-10-13 10:42:20.276 GoGreenApp[54626:1826016] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Data/Application/8FCD9E4C-246D-4D5C-830E-7BB9E9664728/Library/Cookies/Cookies.binarycookies
+2014-10-13 10:42:20.379 GoGreenApp[54626:1826016] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-13 10:42:20.380 GoGreenApp[54626:1826016] Multi-tasking -> Device: YES, App: YES
+2014-10-13 10:42:20.386 GoGreenApp[54626:1826016] Unlimited access to network resources
+2014-10-13 10:42:20.390 GoGreenApp[54626:1826016] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-13 10:42:20.498 GoGreenApp[54626:1826016] [CDVTimer][file] 5.356014ms
+2014-10-13 10:42:20.498 GoGreenApp[54626:1826016] [CDVTimer][TotalPluginStartup] 5.733013ms
+2014-10-13 10:42:20.585 GoGreenApp[54626:1826016] Resetting plugins due to page load.
+2014-10-13 10:42:20.917 GoGreenApp[54626:1826016] Finished load of: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Bundle/Application/A6F9AB27-6603-43AB-BB58-54EB19349BF4/GoGreenApp.app/www/index.html
+2014-10-13 10:43:25.399 GoGreenApp[55263:1827452] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Data/Application/012A6773-9C35-4E4B-8198-4A142B5D196F/Library/Cookies/Cookies.binarycookies
+2014-10-13 10:43:25.459 GoGreenApp[55263:1827452] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-13 10:43:25.459 GoGreenApp[55263:1827452] Multi-tasking -> Device: YES, App: YES
+2014-10-13 10:43:25.464 GoGreenApp[55263:1827452] Unlimited access to network resources
+2014-10-13 10:43:25.466 GoGreenApp[55263:1827452] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-13 10:43:25.576 GoGreenApp[55263:1827452] [CDVTimer][file] 4.938006ms
+2014-10-13 10:43:25.576 GoGreenApp[55263:1827452] [CDVTimer][TotalPluginStartup] 5.409956ms
+2014-10-13 10:43:25.703 GoGreenApp[55263:1827452] Resetting plugins due to page load.
+2014-10-13 10:43:25.954 GoGreenApp[55263:1827452] Finished load of: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Bundle/Application/A02C013C-A29A-4AA5-B2DF-0E2EB07C6F8F/GoGreenApp.app/www/index.html
+2014-10-13 10:44:33.037 GoGreenApp[55933:1829106] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Data/Application/395A8189-A390-45BE-ACDD-293D4FA1F43B/Library/Cookies/Cookies.binarycookies
+2014-10-13 10:44:33.176 GoGreenApp[55933:1829106] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-13 10:44:33.177 GoGreenApp[55933:1829106] Multi-tasking -> Device: YES, App: YES
+2014-10-13 10:44:33.185 GoGreenApp[55933:1829106] Unlimited access to network resources
+2014-10-13 10:44:33.186 GoGreenApp[55933:1829106] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-13 10:44:33.298 GoGreenApp[55933:1829106] [CDVTimer][file] 3.295004ms
+2014-10-13 10:44:33.298 GoGreenApp[55933:1829106] [CDVTimer][TotalPluginStartup] 3.571987ms
+2014-10-13 10:44:33.358 GoGreenApp[55933:1829106] Resetting plugins due to page load.
+2014-10-13 10:44:33.590 GoGreenApp[55933:1829106] Finished load of: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Bundle/Application/6F5A6704-1435-42BE-A5C0-E62C46EED0A1/GoGreenApp.app/www/index.html
+2014-10-13 10:45:23.290 GoGreenApp[56324:1830395] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Data/Application/5137D54D-BE41-4963-A499-B3060AD8FA7D/Library/Cookies/Cookies.binarycookies
+2014-10-13 10:45:23.475 GoGreenApp[56324:1830395] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-13 10:45:23.476 GoGreenApp[56324:1830395] Multi-tasking -> Device: YES, App: YES
+2014-10-13 10:45:23.482 GoGreenApp[56324:1830395] Unlimited access to network resources
+2014-10-13 10:45:23.485 GoGreenApp[56324:1830395] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-13 10:45:23.583 GoGreenApp[56324:1830395] [CDVTimer][file] 2.382040ms
+2014-10-13 10:45:23.583 GoGreenApp[56324:1830395] [CDVTimer][TotalPluginStartup] 2.664030ms
+2014-10-13 10:45:23.643 GoGreenApp[56324:1830395] Resetting plugins due to page load.
+2014-10-13 10:45:23.883 GoGreenApp[56324:1830395] Finished load of: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Bundle/Application/453D48B1-B1BC-46AC-AA3F-DCD087B5CCB2/GoGreenApp.app/www/index.html
+2014-10-13 10:47:28.299 GoGreenApp[57020:1832855] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Data/Application/A6CDAFA9-7D93-43CE-B61A-C122C842BF07/Library/Cookies/Cookies.binarycookies
+2014-10-13 10:47:28.378 GoGreenApp[57020:1832855] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-13 10:47:28.378 GoGreenApp[57020:1832855] Multi-tasking -> Device: YES, App: YES
+2014-10-13 10:47:28.386 GoGreenApp[57020:1832855] Unlimited access to network resources
+2014-10-13 10:47:28.388 GoGreenApp[57020:1832855] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-13 10:47:28.475 GoGreenApp[57020:1832855] [CDVTimer][file] 2.458990ms
+2014-10-13 10:47:28.475 GoGreenApp[57020:1832855] [CDVTimer][TotalPluginStartup] 2.600014ms
+2014-10-13 10:47:28.577 GoGreenApp[57020:1832855] Resetting plugins due to page load.
+2014-10-13 10:47:28.824 GoGreenApp[57020:1832855] Finished load of: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Bundle/Application/45BB91E5-9173-4B33-9EA8-5223BD4120CA/GoGreenApp.app/www/index.html
+2014-10-13 10:56:50.094 GoGreenApp[58089:1839229] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Data/Application/DA2CAA0F-F781-4CDC-93C7-49EE844B7608/Library/Cookies/Cookies.binarycookies
+2014-10-13 10:56:50.230 GoGreenApp[58089:1839229] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-13 10:56:50.230 GoGreenApp[58089:1839229] Multi-tasking -> Device: YES, App: YES
+2014-10-13 10:56:50.237 GoGreenApp[58089:1839229] Unlimited access to network resources
+2014-10-13 10:56:50.239 GoGreenApp[58089:1839229] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-13 10:56:50.345 GoGreenApp[58089:1839229] [CDVTimer][file] 2.925038ms
+2014-10-13 10:56:50.345 GoGreenApp[58089:1839229] [CDVTimer][TotalPluginStartup] 3.072023ms
+2014-10-13 10:56:50.396 GoGreenApp[58089:1839229] Resetting plugins due to page load.
+2014-10-13 10:56:50.728 GoGreenApp[58089:1839229] Finished load of: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Bundle/Application/C0EE0220-55A7-47D8-B686-3C2A0D189F4E/GoGreenApp.app/www/index.html
+2014-10-13 11:13:51.971 GoGreenApp[58877:1849919] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Data/Application/92E9E048-BE0D-4D54-A898-1AF99B84D660/Library/Cookies/Cookies.binarycookies
+2014-10-13 11:13:52.100 GoGreenApp[58877:1849919] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-13 11:13:52.100 GoGreenApp[58877:1849919] Multi-tasking -> Device: YES, App: YES
+2014-10-13 11:13:52.106 GoGreenApp[58877:1849919] Unlimited access to network resources
+2014-10-13 11:13:52.109 GoGreenApp[58877:1849919] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-13 11:13:52.226 GoGreenApp[58877:1849919] [CDVTimer][file] 2.460003ms
+2014-10-13 11:13:52.226 GoGreenApp[58877:1849919] [CDVTimer][TotalPluginStartup] 2.622008ms
+2014-10-13 11:13:52.277 GoGreenApp[58877:1849919] Resetting plugins due to page load.
+2014-10-13 11:13:52.579 GoGreenApp[58877:1849919] Finished load of: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Bundle/Application/8FD7C94A-A8A2-4CB4-9494-147943B524A5/GoGreenApp.app/www/index.html
+2014-10-13 12:19:19.291 GoGreenApp[59889:1875313] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Data/Application/B751AA20-73A2-4225-98BB-FAB395429052/Library/Cookies/Cookies.binarycookies
+2014-10-13 12:19:19.449 GoGreenApp[59889:1875313] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-13 12:19:19.449 GoGreenApp[59889:1875313] Multi-tasking -> Device: YES, App: YES
+2014-10-13 12:19:19.475 GoGreenApp[59889:1875313] Unlimited access to network resources
+2014-10-13 12:19:19.483 GoGreenApp[59889:1875313] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-13 12:19:19.767 GoGreenApp[59889:1875313] [CDVTimer][file] 3.422976ms
+2014-10-13 12:19:19.767 GoGreenApp[59889:1875313] [CDVTimer][TotalPluginStartup] 3.580034ms
+2014-10-13 12:19:19.937 GoGreenApp[59889:1875313] Resetting plugins due to page load.
+2014-10-13 12:19:20.448 GoGreenApp[59889:1875313] Finished load of: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Bundle/Application/CBBC2844-B5FD-4296-8A7F-A43FBA3DB317/GoGreenApp.app/www/index.html
+2014-10-13 12:19:56.071 GoGreenApp[59889:1875324] Terminating since there is no system app.
+2014-10-13 13:11:33.504 GoGreenApp[60747:1897210] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Data/Application/5A8FD63A-F4A0-4888-911A-41F1B832E924/Library/Cookies/Cookies.binarycookies
+2014-10-13 13:11:33.702 GoGreenApp[60747:1897210] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-13 13:11:33.702 GoGreenApp[60747:1897210] Multi-tasking -> Device: YES, App: YES
+2014-10-13 13:11:33.721 GoGreenApp[60747:1897210] Unlimited access to network resources
+2014-10-13 13:11:33.726 GoGreenApp[60747:1897210] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-13 13:11:34.002 GoGreenApp[60747:1897210] [CDVTimer][file] 3.100991ms
+2014-10-13 13:11:34.003 GoGreenApp[60747:1897210] [CDVTimer][TotalPluginStartup] 3.257990ms
+2014-10-13 13:11:34.118 GoGreenApp[60747:1897210] Resetting plugins due to page load.
+2014-10-13 13:11:34.586 GoGreenApp[60747:1897210] Finished load of: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Bundle/Application/04981BF5-1705-4292-80A6-16FC01D843A3/GoGreenApp.app/www/index.html
+2014-10-13 13:12:14.861 GoGreenApp[60747:1897638] Terminating since there is no system app.
+2014-10-13 13:12:24.782 GoGreenApp[61122:1898494] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Data/Application/FB3E06BD-87A1-4B55-A201-33667A26E6FF/Library/Cookies/Cookies.binarycookies
+2014-10-13 13:12:24.958 GoGreenApp[61122:1898494] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-13 13:12:24.958 GoGreenApp[61122:1898494] Multi-tasking -> Device: YES, App: YES
+2014-10-13 13:12:24.965 GoGreenApp[61122:1898494] Unlimited access to network resources
+2014-10-13 13:12:24.968 GoGreenApp[61122:1898494] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-13 13:12:25.157 GoGreenApp[61122:1898494] [CDVTimer][file] 4.841983ms
+2014-10-13 13:12:25.157 GoGreenApp[61122:1898494] [CDVTimer][TotalPluginStartup] 5.315006ms
+2014-10-13 13:12:25.223 GoGreenApp[61122:1898494] Resetting plugins due to page load.
+2014-10-13 13:12:25.622 GoGreenApp[61122:1898494] Finished load of: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Bundle/Application/3753B647-C7F5-427D-B28A-24E3CE64B69A/GoGreenApp.app/www/index.html
+2014-10-13 17:16:47.491 GoGreenApp[63076:1970257] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Data/Application/E29DF96A-EF32-4AE1-AF93-F40309E40FF6/Library/Cookies/Cookies.binarycookies
+2014-10-13 17:16:47.709 GoGreenApp[63076:1970257] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-13 17:16:47.713 GoGreenApp[63076:1970257] Multi-tasking -> Device: YES, App: YES
+2014-10-13 17:16:47.736 GoGreenApp[63076:1970257] Unlimited access to network resources
+2014-10-13 17:16:47.741 GoGreenApp[63076:1970257] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-13 17:16:48.045 GoGreenApp[63076:1970257] [CDVTimer][file] 4.513025ms
+2014-10-13 17:16:48.046 GoGreenApp[63076:1970257] [CDVTimer][TotalPluginStartup] 4.755020ms
+2014-10-13 17:16:48.141 GoGreenApp[63076:1970257] Resetting plugins due to page load.
+2014-10-13 17:16:48.496 GoGreenApp[63076:1970257] Finished load of: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Bundle/Application/ECB60A54-40B0-4B59-B9C2-BD29F755E056/GoGreenApp.app/www/index.html
+2014-10-16 16:22:09.589 GoGreenApp[82517:2515117] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Data/Application/96C3884E-69BD-41BF-9B6B-83E6A644C076/Library/Cookies/Cookies.binarycookies
+2014-10-16 16:22:09.914 GoGreenApp[82517:2515117] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-16 16:22:09.914 GoGreenApp[82517:2515117] Multi-tasking -> Device: YES, App: YES
+2014-10-16 16:22:09.936 GoGreenApp[82517:2515117] Unlimited access to network resources
+2014-10-16 16:22:09.940 GoGreenApp[82517:2515117] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-16 16:22:10.207 GoGreenApp[82517:2515117] [CDVTimer][file] 3.997028ms
+2014-10-16 16:22:10.207 GoGreenApp[82517:2515117] [CDVTimer][TotalPluginStartup] 4.159987ms
+2014-10-16 16:22:10.372 GoGreenApp[82517:2515117] Resetting plugins due to page load.
+2014-10-16 16:22:10.738 GoGreenApp[82517:2515117] Finished load of: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Bundle/Application/F31AD459-B60E-4AB3-844F-842170837108/GoGreenApp.app/www/index.html
+2014-10-16 16:27:27.525 GoGreenApp[83258:2519639] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Data/Application/1B6867F1-D103-44FF-AA93-B96963C53062/Library/Cookies/Cookies.binarycookies
+2014-10-16 16:27:28.028 GoGreenApp[83258:2519639] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-16 16:27:28.029 GoGreenApp[83258:2519639] Multi-tasking -> Device: YES, App: YES
+2014-10-16 16:27:28.036 GoGreenApp[83258:2519639] Unlimited access to network resources
+2014-10-16 16:27:28.040 GoGreenApp[83258:2519639] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-16 16:27:28.135 GoGreenApp[83258:2519639] [CDVTimer][file] 2.215981ms
+2014-10-16 16:27:28.135 GoGreenApp[83258:2519639] [CDVTimer][TotalPluginStartup] 2.440989ms
+2014-10-16 16:27:28.192 GoGreenApp[83258:2519639] Resetting plugins due to page load.
+2014-10-16 16:27:28.510 GoGreenApp[83258:2519639] Finished load of: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Bundle/Application/AA1ADBFA-3C38-41B8-B84A-938A2C3812E2/GoGreenApp.app/www/index.html
+2014-10-16 16:30:34.409 GoGreenApp[83961:2522789] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Data/Application/D00AA480-09B9-40DA-8117-7CB37044BCF0/Library/Cookies/Cookies.binarycookies
+2014-10-16 16:30:34.470 GoGreenApp[83961:2522789] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-16 16:30:34.470 GoGreenApp[83961:2522789] Multi-tasking -> Device: YES, App: YES
+2014-10-16 16:30:34.478 GoGreenApp[83961:2522789] Unlimited access to network resources
+2014-10-16 16:30:34.481 GoGreenApp[83961:2522789] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-16 16:30:34.637 GoGreenApp[83961:2522789] [CDVTimer][file] 3.854990ms
+2014-10-16 16:30:34.638 GoGreenApp[83961:2522789] [CDVTimer][TotalPluginStartup] 4.095972ms
+2014-10-16 16:30:34.712 GoGreenApp[83961:2522789] Resetting plugins due to page load.
+2014-10-16 16:30:35.024 GoGreenApp[83961:2522789] Finished load of: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Bundle/Application/417996FE-1EA6-4B32-967E-C981EDD82533/GoGreenApp.app/www/index.html
+2014-10-17 09:25:56.957 GoGreenApp[85294:2620274] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Data/Application/530A31F2-0854-4BE4-8F5C-31E6644382B4/Library/Cookies/Cookies.binarycookies
+2014-10-17 09:25:57.093 GoGreenApp[85294:2620274] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-17 09:25:57.093 GoGreenApp[85294:2620274] Multi-tasking -> Device: YES, App: YES
+2014-10-17 09:25:57.113 GoGreenApp[85294:2620274] Unlimited access to network resources
+2014-10-17 09:25:57.117 GoGreenApp[85294:2620274] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-17 09:25:57.336 GoGreenApp[85294:2620274] [CDVTimer][file] 3.132999ms
+2014-10-17 09:25:57.336 GoGreenApp[85294:2620274] [CDVTimer][TotalPluginStartup] 3.347993ms
+2014-10-17 09:25:57.452 GoGreenApp[85294:2620274] Resetting plugins due to page load.
+2014-10-17 09:25:58.485 GoGreenApp[85294:2620274] Finished load of: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Bundle/Application/2BC68FDF-B852-477D-ADA1-CCEE45187699/GoGreenApp.app/www/index.html
+2014-10-17 09:26:50.023 GoGreenApp[85967:2621847] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Data/Application/926B9700-F146-436B-813A-4770B99BA2A1/Library/Cookies/Cookies.binarycookies
+2014-10-17 09:26:50.127 GoGreenApp[85967:2621847] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-17 09:26:50.127 GoGreenApp[85967:2621847] Multi-tasking -> Device: YES, App: YES
+2014-10-17 09:26:50.143 GoGreenApp[85967:2621847] Unlimited access to network resources
+2014-10-17 09:26:50.146 GoGreenApp[85967:2621847] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-17 09:26:50.288 GoGreenApp[85967:2621847] [CDVTimer][file] 2.808988ms
+2014-10-17 09:26:50.288 GoGreenApp[85967:2621847] [CDVTimer][TotalPluginStartup] 3.024995ms
+2014-10-17 09:26:50.359 GoGreenApp[85967:2621847] Resetting plugins due to page load.
+2014-10-17 09:26:50.746 GoGreenApp[85967:2621847] Finished load of: file:///Users/ibronsveld/Library/Developer/CoreSimulator/Devices/8CDD12C8-A5E7-455B-B463-E89629A45EB8/data/Containers/Bundle/Application/B1A7A4E7-7DA2-4C18-8109-365A9AC886A6/GoGreenApp.app/www/index.html
